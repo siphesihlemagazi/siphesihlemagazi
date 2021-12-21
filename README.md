@@ -2,7 +2,7 @@
 - 👀 Though currently mainly using Python/Django, I’m interested in the whole Software Engineering verse, using other tools and technologies.
 - 🌱 I’m currently learning C#, the Microsoft Power Platform, Javascript, Python, Django, CSS, HTML, as well as Algorithms and Data Structures.
 - 💞️ I’m looking to collaborate on website and web app development, preferably as a backend developer using Python/Django.
-- 📫 How to reach me: magazisiphesihle@gmail.com.
+- 📫 Check me on LinkedIn: https://www.linkedin.com/in/siphesihle-magazi-8354a1209/.
 
 <!---
 siphesihlemagazi/siphesihlemagazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
